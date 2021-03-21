@@ -1,3 +1,3 @@
-# Posters
+# Posters and Slides
 
-Posters I presented in different conferences.
+Posters and slides that I presented in different conferences.
